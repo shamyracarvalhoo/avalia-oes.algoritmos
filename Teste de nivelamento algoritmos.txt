@@ -1,0 +1,18 @@
+Teste de nível- Algoritmos e estrutura de dados I
+Discente: Shamyra de Fátima Saraiva Carvalho 
+
+Questão 1. Não consegui fazer.	
+
+Questão 2. Pude identificar que o programa envolve matrizes mas não soube qual a saida. 
+
+Questão 3. 
+-Existe um erro ao se declarar as variáveis, não tem o ";" no final;
+-a variavel i não foi declarada;
+-a chave do for está aberta;
+-o return do final está sem o "0" e sem o ";". 
+
+Questão 4. Não consegui fazer.
+
+
+Questão 5. VAi sair: "200" e "Fim do laço!"
+ 
